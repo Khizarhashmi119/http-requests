@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <title>Http requests</title>
+  </head>
+  <body>
+    <button type="button" id="btn1">Get text data</button>
+    <button type="button" id="btn2">Get JSON data</button><br /><br />
+    <form id="form">
+      <input type="text" name="name" id="name" placeholder="Enter your name" />
+      <button type="submit">Submit</button>
+    </form>
+    <h2>Text Data.</h2>
+    <p id="text"></p>
+    <h2>JSON Data.</h2>
+    <div id="json"></div>
+    <h2>Post Data.</h2>
+    <p id="post-data"></p>
+    <!-- <script src="/js/ajax.js"></script> -->
+    <!-- <script src="/js/fetch.js"></script> -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="/js/axios.js"></script>
+  </body>
+</html>

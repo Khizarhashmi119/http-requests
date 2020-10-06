@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mohd. Khizar Hashmi",
+    "age": 22,
+    "subject": "Web development"
+  },
+  {
+    "name": "Mohd. Usama",
+    "age": 22,
+    "subject": "Chemistry"
+  },
+  {
+    "name": "Sahil zaidi",
+    "age": 22,
+    "subject": "Electronics"
+  },
+  {
+    "name": "Ameer Hamza",
+    "age": 23,
+    "subject": "Biology"
+  }
+]
